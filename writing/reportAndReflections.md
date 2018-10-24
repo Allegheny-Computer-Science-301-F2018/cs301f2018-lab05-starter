@@ -1,14 +1,12 @@
-# Name
-# Date:
-
-Question 7.
+### Name
+### Date:
 
 
-
-Question 8.
-
-
-Question 9.
+# Your questions over the data
 
 
-Question 10.
+
+
+# Based on Dr. Harward's provided data and article, discuss the processes to make political decisions to fund states' legal services. In addition, discuss how such decisions are affected. Reflect on potential faults in this system (as you understand them) and how data analysis may be able to identify such faults.
+
+
